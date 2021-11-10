@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework_20</string>
+    <string name="hint_text">Smartphone model</string>
+    <string name="smartphone_model">Samsung Galaxy A</string>
+</resources>
